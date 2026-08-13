@@ -23,8 +23,10 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 ## 📜 Patents & Intellectual Property
 - 🏛️ **Patent Title:** *"Generative Artificial Intelligence System for Terrain-Constrained Reconstruction of Historical Geography"* (**GeoMemory+ Framework**)
-  - **Inventors:** **Sampath Kumar**, Co-Inventors
+  - **Status:** **Patent Filed**
+  - **Inventors:** **Sampath Kumar** (Primary Inventor), Duranjai V (Classmate), Mr. Ilamurugan G (Assistant Professor & Research Advisor)
   - **Key Innovation:** Deep learning generative framework (Diffusion Models / GANs) conditioned on Digital Elevation Models (DEM), slope continuity, and watershed pathways for automated historical landscape synthesis with stochastic spatial uncertainty estimation.
+  - 🔗 **Documentation Repo:** [github.com/sam-creates-projects/geomemory-historical-geography-ai-patent](https://github.com/sam-creates-projects/geomemory-historical-geography-ai-patent)
 
 ---
 
@@ -39,9 +41,9 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 | Project / Patent | Domain & Stack | Highlights & Metrics | Code / Repo |
 | :--- | :--- | :--- | :---: |
-| 🌍 **AI Climate Anomaly Detection System** | Python, FastAPI, Isolation Forest, ARIMA, Next.js | **93.8% Precision** in weather anomaly detection & 0.42°C MAE forecasting. | [Code](https://github.com/sam-creates-projects/climate-ai-system) |
-| 🗺️ **GeoMemory+ Historical Geography AI** | Generative AI, Diffusion Models, DEM, Remote Sensing | **Terrain-constrained landscape synthesis** with spatial uncertainty estimation. | [Documentation](https://github.com/sam-creates-projects) |
-| 🤖 **Autonomous Neural Navigation Agent** | PyTorch, ROS2, Reinforcement Learning, Gazebo | **94.2% Success Rate** across 500 benchmark obstacle runs. | [Code](https://github.com/sam-creates-projects/neural-navigation-agent) |
+| 🗺️ **GeoMemory+ Historical Geography AI (Patent)** | Generative AI, Diffusion Models, DEM, Remote Sensing | **Terrain-constrained landscape synthesis** with spatial uncertainty estimation. | [Patent Documentation](https://github.com/sam-creates-projects/geomemory-historical-geography-ai-patent) |
+| 🌍 **AI Climate Anomaly Detection System** | Python, FastAPI, Isolation Forest, ARIMA, Next.js | **93.8% Precision** in weather anomaly detection & 0.42°C MAE forecasting. | [Code Repo](https://github.com/sam-creates-projects/climate-ai-system) |
+| 🤖 **Autonomous Neural Navigation Agent** | PyTorch, ROS2, Reinforcement Learning, Gazebo | **94.2% Success Rate** across 500 benchmark obstacle runs. | [Code Repo](https://github.com/sam-creates-projects/neural-navigation-agent) |
 
 ---
 
