@@ -8,9 +8,9 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 <div align="center">
 
-# Hi, I'm Sampath Kumar 👋
+# Hi, I'm Sampathkumar N 👋
 ### B.E. Computer Science & Engineering (AI & ML) | Class of 2027
-**AI Researcher & Patent Inventor | Targeted US MS Candidate (Fall 2027)**
+**AI Researcher & Patent Co-Inventor | Targeted US MS Candidate (Fall 2027)**
 
 [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Live_Site-6366f1?style=for-the-badge)](https://sam-creates-projects.github.io/portfolio)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-sam--creates--projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-creates-projects)
@@ -24,7 +24,7 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 ## 📜 Patents & Intellectual Property
 - 🏛️ **Patent Title:** *"Generative Artificial Intelligence System for Terrain-Constrained Reconstruction of Historical Geography"* (**GeoMemory+ Framework**)
   - **Status:** **Patent Filed**
-  - **Inventors:** **Sampath Kumar** (Primary Inventor), Duranjai V (Classmate), Mr. Ilamurugan G (Assistant Professor & Research Advisor)
+  - **Co-Inventors:** **Sampathkumar N** (Co-Inventor), Duranjai V (Co-Inventor), Mr. Ilamurugan G (Co-Inventor & Assistant Professor)
   - **Key Innovation:** Deep learning generative framework (Diffusion Models / GANs) conditioned on Digital Elevation Models (DEM), slope continuity, and watershed pathways for automated historical landscape synthesis with stochastic spatial uncertainty estimation.
   - 🔗 **Documentation Repo:** [github.com/sam-creates-projects/geomemory-historical-geography-ai-patent](https://github.com/sam-creates-projects/geomemory-historical-geography-ai-patent)
 
