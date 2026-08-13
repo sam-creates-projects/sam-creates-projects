@@ -8,7 +8,7 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sam-creates-projects/portfolio/main/profile.jpg" alt="Sampathkumar N" width="160" height="160" style="border-radius: 50%; border: 3px solid #6366f1; object-fit: cover;" />
+<img src="" alt="Sampathkumar N" width="160" height="160" style="border-radius: 50%; border: 3px solid #6366f1; object-fit: cover;" />
 
 # Hi, I'm Sampathkumar N 👋
 ### B.E. Computer Science & Engineering (AI & ML) | Class of 2027
