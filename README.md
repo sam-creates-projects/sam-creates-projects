@@ -9,8 +9,8 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 <div align="center">
 
 # Hi, I'm Sampathkumar N 👋
-### Aspiring AI/ML Engineer | B.E. Computer Science & Engineering (AI & ML) | Class of 2027
-**Multi-Patent Co-Inventor & AI Researcher | Class Topper (Sem 6 GPA: 9.45 | Sem 1 Topper)**
+### Aspiring AI/ML Systems Engineer | B.E. Computer Science & Engineering (AI & ML) | Class of 2027
+**Multi-Patent Co-Inventor & AI Researcher | Class Topper (Sem 6 GPA: 9.45 | Sem 1 Topper: 9.20)**
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-sam--creates--projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-creates-projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampathkumar-n)
@@ -19,6 +19,21 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 ---
 
 </div>
+
+## 🚀 Flagship Open-Source Systems & AI Projects
+
+High-performance AI systems, edge inference runtimes, C++ SIMD vector databases, and neuromorphic architectures built with rigorous benchmarks:
+
+| Project | Domain & Stack | Key Highlights & Quantifiable Benchmarks | Live Repository |
+| :--- | :--- | :--- | :---: |
+| ⚡ **[AutoPatch](https://github.com/sam-creates-projects/AutoPatch)** | Agentic AI, SWE Debugger, AST, FastAPI | **Autonomous git repo patcher**; resolves failing pytest suites in **0.15s** with **100% pass@1** on SWE micro-benchmarks. | [sam-creates-projects/AutoPatch](https://github.com/sam-creates-projects/AutoPatch) |
+| 🚀 **[HyperVector](https://github.com/sam-creates-projects/HyperVector)** | Core Systems, C++20, ARM NEON SIMD, HNSW | **Sub-millisecond vector DB engine**; achieves **21,750+ QPS at 0.046ms latency** on Apple Silicon M3 unified memory. | [sam-creates-projects/HyperVector](https://github.com/sam-creates-projects/HyperVector) |
+| 👁️ **[EdgeDepth-MPS](https://github.com/sam-creates-projects/EdgeDepth-MPS)** | Spatial Vision, PyTorch MPS, Point Clouds | **Real-time 3D monocular metric depth estimation**; runs at **46.8 FPS (21.3ms)** with PLY 3D mesh reconstruction. | [sam-creates-projects/EdgeDepth-MPS](https://github.com/sam-creates-projects/EdgeDepth-MPS) |
+| 🎙️ **[EchoStream](https://github.com/sam-creates-projects/EchoStream)** | Voice AI, Apple MLX, WebSockets, VAD | **Full-duplex conversational voice agent**; delivers **23.66ms glass-to-glass latency** with sub-40ms barge-in handling. | [sam-creates-projects/EchoStream](https://github.com/sam-creates-projects/EchoStream) |
+| 🧠 **[NeuroScan-3D](https://github.com/sam-creates-projects/NeuroScan-3D)** | Medical AI, 3D-UNet, BraTS, PyTorch | **Multi-modal 3D MRI brain tumor segmentation**; achieves **94.10% Whole Tumor & 92.41% Core Dice (DSC)** with MPR slicing. | [sam-creates-projects/NeuroScan-3D](https://github.com/sam-creates-projects/NeuroScan-3D) |
+| ⚡ **[NeuroBlink](https://github.com/sam-creates-projects/NeuroBlink)** | Neuromorphic SNN, DVS Event Cameras | **Ultra-fast drone collision evasion**; processes microsecond spike streams with LIF neurons in **2.88ms (<5.2ms target)**. | [sam-creates-projects/NeuroBlink](https://github.com/sam-creates-projects/NeuroBlink) |
+
+---
 
 ## 🏆 Academic Excellence & Class Topper Distinctions
 - 🥇 **6th Semester Class Topper (9.45 GPA):** Achieved a peak **9.45 GPA** in 6th Semester (O Grade in AI for Edge Computing, A+ in Deep Learning & Web Tech).
@@ -58,25 +73,6 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 ---
 
-## 🔬 About Me & Academic Vision
-- 🎓 **Education:** Pursuing B.E. in CSE with Specialization in **AI & Machine Learning** at Easwari Engineering College (SRM Group), Chennai (Graduating May 2027).
-- 🎯 **Primary Goal:** Securing admission to top US Master's programs with **Graduate Research Assistantships (RA)**.
-- 🧪 **Research Core:** Vision-Language Models (VLMs), Computer Vision, Geospatial AI, Adaptive AI Systems, MLOps.
-
----
-
-## 🌟 Featured Research & Projects
-
-| Project / Patent | Domain & Stack | Highlights & Metrics | Code / Repo |
-| :--- | :--- | :--- | :---: |
-| 👁️ **BaristaPOV VLM Video Analytics (Patent 3)** | Vision-Language Models, Egocentric Video, PyTorch | **Real-time action, ingredient, & workflow tracking** using zero-shot VLM inference. | [Patent Documentation](https://github.com/sam-creates-projects/baristapov-vlm-video-analysis-patent) |
-| 🗺️ **GeoMemory+ Historical Geography AI (Patent 1)** | Generative AI, Diffusion Models, DEM, Remote Sensing | **Terrain-constrained landscape synthesis** with spatial uncertainty estimation. | [Patent Documentation](https://github.com/sam-creates-projects/geomemory-historical-geography-ai-patent) |
-| 🎓 **EduPulse AI Learning Guidance System (Patent 2)** | Adaptive AI, LLMs, Multilingual NLP, EdTech | **Event-driven adaptive scoring (CMS/LPS)** & automated skill-gap career mapping. | [Patent Documentation](https://github.com/sam-creates-projects/edupulse-ai-personalized-learning-patent) |
-| 🚆 **RailNav Railway Navigation System** | AI Navigation, Python, Sensor Fusion | **Top 30 Teams nationwide** at Smart India Hackathon (SIH) 2024. | [GitHub Profile](https://github.com/sam-creates-projects) |
-| 🌍 **AI Climate Anomaly Detection System** | Python, FastAPI, Isolation Forest, ARIMA, Next.js | **93.8% Precision** in weather anomaly detection & 0.42°C MAE forecasting. | [Code Repo](https://github.com/sam-creates-projects/climate-ai-system) |
-
----
-
 ## 📜 Professional Certifications
 - **Oracle Cloud Infrastructure 2025 Certified GenAI Professional** — Oracle
 - **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Oracle
@@ -93,19 +89,14 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 <div align="center">
 
-### Languages & AI/ML
+### Languages & Systems Runtimes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Apple MLX](https://img.shields.io/badge/Apple_MLX-000000?style=flat-square&logo=apple&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-
-### Systems, Databases & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
