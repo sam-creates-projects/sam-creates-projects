@@ -35,11 +35,6 @@ High-performance AI systems, edge inference runtimes, C++ SIMD vector databases,
 
 ---
 
-## 🏆 Academic Excellence & Class Topper Distinctions
-- 🥇 **6th Semester Class Topper (9.45 GPA):** Achieved a peak **9.45 GPA** in 6th Semester (O Grade in AI for Edge Computing, A+ in Deep Learning & Web Tech).
-- 🥇 **1st Semester Class Topper (9.20 GPA):** Recognized as Class Topper in 1st Semester among a select few top achievers in the class (O Grade in Python Programming, Matrices & Calculus, and all Labs).
-- 🎯 **12th Grade Computer Science Peak:** Scored **99 / 100 in Computer Science** in 12th Grade (DAV Matric Higher Secondary School, Gill Nagar).
-- 🌟 **First Year Rank:** Ranked in the top 5 of 65 students in first year with a CGPA of 9.2.
 
 ---
 
