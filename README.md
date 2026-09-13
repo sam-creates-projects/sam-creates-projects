@@ -10,7 +10,7 @@ Target: US University Admissions, Professors (RA/TA), and Top Tech Recruiters
 
 # Hi, I'm Sampathkumar N 👋
 ### Aspiring AI/ML Systems Engineer | B.E. Computer Science & Engineering (AI & ML) | Class of 2027
-**Multi-Patent Co-Inventor & AI Researcher | Class Topper (Sem 6 GPA: 9.45 | Sem 1 Topper: 9.20)**
+
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-sam--creates--projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam-creates-projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampathkumar-n)
@@ -51,28 +51,7 @@ High-performance AI systems, edge inference runtimes, C++ SIMD vector databases,
 
 ---
 
-## 📜 Patents & Intellectual Property (3 Filed Patents)
 
-> 🏛️ **Consolidated Research & Patent Dossier:** **[`sam-creates-projects/My-Publications`](https://github.com/sam-creates-projects/My-Publications)**  
-> *(Consolidates all 3 filed patents, architecture diagrams, SIH Top 30 research, and BibTeX citations in a single verified repository)*
-
-1. 🏛️ **Patent 1:** *"Generative Artificial Intelligence System for Terrain-Constrained Reconstruction of Historical Geography"* (**GeoMemory+ Framework**)
-   - **Status:** **Patent Filed**
-   - **Co-Inventors:** **Sampathkumar N** (Co-Inventor), Duranjai V (Co-Inventor), Mr. Ilamurugan G (Co-Inventor & Assistant Professor)
-   - **Innovation:** Generative diffusion framework conditioned on Digital Elevation Models (DEM) and slope gradients for automated historical landscape synthesis with stochastic spatial uncertainty estimation.
-   - 🔗 **Documentation Repo:** [github.com/sam-creates-projects/geomemory-historical-geography-ai-patent](https://github.com/sam-creates-projects/geomemory-historical-geography-ai-patent)
-
-2. 🏛️ **Patent 2:** *"AI-Powered Personalized Learning and Career Guidance System for Technical Education"* (**EduPulse AI Framework**)
-   - **Status:** **Patent Filed**
-   - **Co-Inventors:** **Sampathkumar N** (Co-Inventor), Duranjai V (Co-Inventor), Mr. Ilamurugan G (Co-Inventor & Assistant Professor)
-   - **Innovation:** Multi-layered adaptive learning architecture incorporating adaptive competency scoring (CMS/LPS/PPS), multilingual LLM request brokers, semantic NLP, and automated skill-gap career mapping.
-   - 🔗 **Documentation Repo:** [github.com/sam-creates-projects/edupulse-ai-personalized-learning-patent](https://github.com/sam-creates-projects/edupulse-ai-personalized-learning-patent)
-
-3. 🏛️ **Patent 3:** *"System and Method for Automated Analysis of Barista Point-of-View Video Streams Using On-Device Vision-Language Models"* (**BaristaPOV VLM**)
-   - **Status:** **Patent Filed**
-   - **Co-Inventors:** **Sampathkumar N** (Co-Inventor), Duranjai V (Co-Inventor), Mr. Ilamurugan G (Co-Inventor & Assistant Professor)
-   - **Innovation:** Egocentric computer vision framework utilizing zero-shot Vision-Language Models, text parsing, temporal sequence modeling, and skill evaluation to track ingredients, actions, and preparation workflows in real-time.
-   - 🔗 **Documentation Repo:** [github.com/sam-creates-projects/baristapov-vlm-video-analysis-patent](https://github.com/sam-creates-projects/baristapov-vlm-video-analysis-patent)
 
 ---
 
