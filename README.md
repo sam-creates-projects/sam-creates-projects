@@ -53,6 +53,9 @@ High-performance AI systems, edge inference runtimes, C++ SIMD vector databases,
 
 ## 📜 Patents & Intellectual Property (3 Filed Patents)
 
+> 🏛️ **Consolidated Research & Patent Dossier:** **[`sam-creates-projects/My-Publications`](https://github.com/sam-creates-projects/My-Publications)**  
+> *(Consolidates all 3 filed patents, architecture diagrams, SIH Top 30 research, and BibTeX citations in a single verified repository)*
+
 1. 🏛️ **Patent 1:** *"Generative Artificial Intelligence System for Terrain-Constrained Reconstruction of Historical Geography"* (**GeoMemory+ Framework**)
    - **Status:** **Patent Filed**
    - **Co-Inventors:** **Sampathkumar N** (Co-Inventor), Duranjai V (Co-Inventor), Mr. Ilamurugan G (Co-Inventor & Assistant Professor)
